@@ -1,0 +1,17 @@
+Le th´eor`eme « central limite »
+Le but de ce tutorat est d’´etudier le comportement limite de la somme d’un grand nombre de variables
+al´eatoires et de pr´esenter l’un des r´esultats les plus importants de la science moderne que les fran¸cais
+s’obstinent `a appeler, `a tort, le th´eor`eme de la limite centrale.
+1. Fonctions g´en´eratrices
+La densit´e de probabilit´e d’une variable al´eatoire X `a valeurs dans R sera not´ee PX(x). On
+notera aussi le n
+`eme moment de la distribution par Mn(X) = hXn
+i (ou < x > repr´esente la
+valeur moyenne de x). La fonction g´en´eratrice des moments est d´efinie de la fa¸con suivante :
+PˆX(t) = he
+itX i =
+Z ∞
+∞
+dx PX(x)e
+itx
+.

@@ -1,0 +1,5 @@
+Découlant donc d’axiomes et de postulats proposés par les plus grands mathématiciens certains théorèmes se démontrent d’une seule manière et d’autres, de façon différente, comme cela est le cas pour le théorème de Pythagore.
+
+Parmi les théorèmes les plus connus figurent donc le théorème de Pythagore et celui de Thales. Le théorème de Pythagore, mathématicien de la Grèce Antique, permet de calculer le troisième côté d’un triangle rectangle, à condition de connaître la longueur des deux autres côtés.
+
+src2.txtsrc2.txtsrc2.txtsrc2.txtsrc2.txtsrc2.txtsrc2.txt
