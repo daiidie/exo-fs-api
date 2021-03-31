@@ -6,6 +6,7 @@ if (process.argv.length !== 5) {
 }
 else {
 tab.forEach((elem) => {
-  console.log(elem)
+  process.stdout.write
+  (elem + " ")
 })
 }
